@@ -1,2 +1,8 @@
-WEATHER_KEY=[Weather API key can be found at https://home.openweathermap.org/api_keys]
-DB=[mongo database connection string can be found at on cloud.mongodb.com > Clusters > Connect button]
+WEATHER_KEY="93e8c9002amshd4d89b9a657f061p1584c5jsn6aeab1df7a89"
+WEATHER_HOST="open-weather13.p.rapidapi.com"
+WEATHER_URL="https://open-weather13.p.rapidapi.com/city"
+WEATHER_CITY="London"
+WEATHER_UNITS="metric"
+WEATHER_LANG="en"
+WEATHER_TIMEOUT=5       
+DB="mongodb+srv://vansh0811:vansh123@cluster0.2pelm.mongodb.net/?"
